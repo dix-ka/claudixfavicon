@@ -1,0 +1,2 @@
+# claudixfavicon
+FAVICON CLAUDIX
